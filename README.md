@@ -1,5 +1,5 @@
 # ERS Pre-launch Data Hackathon | Day 0
-This repository contains a tutorial [notebook](hackathon-da0-tutorial.ipynb) and some helpful data files for getting started.
+This repository contains a tutorial [notebook](hackathon-day0-tutorial.ipynb) and some helpful data files for getting started.
 
 Day 0 is an optional day that is particularly designed for new community members and those who want help getting their coding environments set up. You can use this tutorial whether or not you attend the Day 0 zoom session.
 
