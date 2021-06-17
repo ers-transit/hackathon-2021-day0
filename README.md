@@ -7,7 +7,7 @@ Day 0 is an optional day that is particularly designed for new community members
 We will walk step-by-step through a Guided Tutorial on the process of setting up a convenient coding environment to work with JWST data. It is not a complete introduction to the Python language, but it shares some tips to help get started. 
 
 **Before you attend:** Please be aware there are a few things you'll need to download. Some of them include large files, so it's probably a good idea to start downloading them *before* the start of the tutorial session. Those downloads are:
-1. **This tutorial repository.** If you're new to GitHub, click the green *Code* button in the upper right corner of this window and select *Download ZIP*. (Check out Christina Hedges' Day 1 GitHub tutorial tomorrow for more advanced GitHub concepts!)
+1. **This tutorial repository.** You can download everything you need by clicking the green *Code* button in the upper right corner of this window and select *Download ZIP*. (If you're new to GitHub, consider Christina Hedges' Day 1 GitHub tutorial tomorrow for a great introduction!)
 2. **Anaconda Python Distribution.** If do not yet have `conda` installed on your computer yet, download an installer for [Anaconda Individual Edition](https://www.anaconda.com/products/individual) for your computer. Try running that installer; it should be pretty straightforward.
 
 ## If you do not plan to attend Day 0 on zoom:
