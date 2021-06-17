@@ -1,0 +1,5 @@
+# This tiny files makes figures bigger and easier to see;
+# it's useful for presentations using jupyter.
+
+figure.figsize:     8, 2  # figure size in inches
+figure.dpi:         300       # figure dots per inch
