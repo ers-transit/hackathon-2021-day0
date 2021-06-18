@@ -12,9 +12,11 @@ Please be aware there are a few things you'll need to download. Some of them inc
 2. **This tutorial repository.** You can download everything you need by clicking the green *Code* button in the upper right corner of this window and selecting *Download ZIP*. (If you're new to GitHub, consider Christina Hedges' Day 1 GitHub tutorial tomorrow for a great introduction!)
 
 ## If you do not plan to attend Day 0 on zoom:
-If you plan to participate in the Guided Tutorials on Days 1, 2, and 3, there are some coding ingredients you will need. The `environment.yml` file in this repository defines an `ers-transit` conda environment with everything we expect to be needed for the Guided Tutorials. Please create this environment on your computer using `conda env create -f environment.yml` (more detailed instructions are available in the tutorial [notebook](hackathon-day0-tutorial.ipynb)).
+If you plan to participate in the Guided Tutorials on Days 1, 2, and 3, there are some coding ingredients you will need.
 
-If you're using Python 3.6 or greater, you should be able to get pretty much everything just by running `pip install git+https://github.com/ers-transit/ers-transit-tutorial-requirements.git --upgrade`.
+If you're using Python 3.6 or greater, you should be able to get pretty much everything by running `pip install git+https://github.com/ers-transit/ers-transit-tutorial-requirements.git --upgrade`.
+
+If that doesn't work, or if you want to follow our suggestion of working in a clean `conda` environment, the `environment.yml` file in this repository defines an `ers-transit` conda environment with everything we expect to be needed for the Guided Tutorials. You can create this environment on your computer using `conda env create -f environment.yml` (more detailed instructions are available in the tutorial [notebook](hackathon-day0-tutorial.ipynb)).
 
 ## If you can't get Python working on your computer:
-You can still (mostly) run this notebook using Google Colaboratory.
+You can still (mostly) run this notebook using Google Colaboratory. Simply click [this link](https://colab.research.google.com/github/ers-transit/hackathon-2021-day0/blob/main/hackathon-day0-tutorial-colab-version.ipynb) to open and run it with your google account.
